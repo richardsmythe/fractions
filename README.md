@@ -1,0 +1,1 @@
+•	Allows for easy calculations of fractions, makes use of int64 numerator/denominator, preserves precision, simplifies fractions automatically, converts to exact and simple recurring decimals by detecting patterns, handles mixed fractions.
